@@ -1,9 +1,4 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
-  "url": "https://github.com/adis250/smarthome/tree/main/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Bug fixes"
-  ]
+  "latestVersion": "1.2.2",
+  "url": "https://github.com/adis250/smarthome/tree/main/releases"
 }
