@@ -1,7 +1,6 @@
 <AppUpdater>
   <update>
     <latestVersion>0.8</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
     <url>https://github.com/adis250/smarthome/releases</url>
     <releaseNotes>
        - First evolution
